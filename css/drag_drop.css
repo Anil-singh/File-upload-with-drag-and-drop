@@ -1,0 +1,16 @@
+.text_align_center{
+    text-align : center;
+}
+.imageContainer{
+    float:left;
+}
+.submitButton{
+    background-color: #723fb8;
+    border: medium none;
+    color: #fff;
+    cursor: pointer;
+    //float: right;
+    font-size: 20px;
+    height: 30px;
+    width: 125px;
+}
