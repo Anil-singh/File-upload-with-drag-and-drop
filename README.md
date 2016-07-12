@@ -96,7 +96,7 @@ User friendly file upload module with drag and drop functionality using Jquery a
             <img src='' width='90px' id='image_input_show' style='display:none;'/>
         </div>
     </form>
-
+    // js/drag_drop.js
     $('#image_input').filer({
        showThumbs: true,
         limit: 1,
