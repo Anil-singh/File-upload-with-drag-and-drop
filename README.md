@@ -113,6 +113,6 @@ User friendly file upload module with drag and drop functionality using Jquery a
         theme: "dragdropbox" 
     });
     
-    ## API References
+## API References
         1.jquery.js
         2.jquery.filer.js
